@@ -12,7 +12,7 @@ topics: NodeJS
 - what can node do?
 - what can you build with node?
 - JS
-	- [[String Interpolation in js|String Interpolation]]
+	- [String Interpolation](https://github.com/KvasirSG/node-notes/blob/master/String%20Interpolation%20in%20js.md)
 	- string literals
 	- datatypes
 		- strings
@@ -32,7 +32,7 @@ const person = {
 }
 ```
 
-[There is only one true way for RestFull](https://en.wikipedia.org/wiki/Richardson_Maturity_Model) -> [[Richardson Maturity Model]]
+[There is only one true way for RestFull](https://en.wikipedia.org/wiki/Richardson_Maturity_Model) -> [Richardson Maturity Model](https://github.com/KvasirSG/node-notes/blob/master/Richardson%20Maturity%20Model.md)
 
 # What is Node.js
 - JavaScript runtime built on Chrome’s V8 engine
